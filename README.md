@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
 <h3 align="center">|| Software Developer || Python || Rest API || GitHub || MySQL || MongoDB || Docker || AWS</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently Working on Developing my skills **Python, JavaScript**
 
-- 💬 Ask me about **Python, Django, Github, Mysql, Mongodb**
+- 💬 Ask me about **Python, Django, Github, Mysql, Mongodb, Backend**
 
 - 📫 How to reach me **skgovind885@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/170d_ALFlWsfD1EEyhNlsP92uAGP_gc9C/view?usp=sharing](https://drive.google.com/file/d/170d_ALFlWsfD1EEyhNlsP92uAGP_gc9C/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w7Q8mdD05pzHSbJUwkvDvkhyYUQaOau5/view?usp=sharing](https://drive.google.com/file/d/1w7Q8mdD05pzHSbJUwkvDvkhyYUQaOau5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
