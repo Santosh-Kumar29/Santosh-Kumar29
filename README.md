@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, DS, JavaScript**
 
-- 💬 Ask me about **Python, Django, Github,Mysql, Mongodb**
+- 💬 Ask me about **Python, Django, Github, Mysql, Mongodb**
 
 - 📫 How to reach me **skgovind885@gmail.com**
 
